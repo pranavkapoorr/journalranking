@@ -13,7 +13,7 @@ import java.util.Iterator;
 /**
  *
  * @author Pranav
- */public class journal implements Serializable{
+ */public class journal implements Serializable {
         String name;
         boolean review;
             int score;
